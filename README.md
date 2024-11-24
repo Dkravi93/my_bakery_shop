@@ -1,6 +1,10 @@
 # my_bakery_shop
 
-A new Flutter project.
+A Baker Shop App
+
+## ScreenShot
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/639856d8-bff0-415e-9ae3-3d0f1f7c68b0">
+
 
 ## Getting Started
 
