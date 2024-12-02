@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_bakery_shop/Pages/breakFast.dart';
 import 'package:my_bakery_shop/Pages/home.dart';
 
 void main() {
@@ -14,7 +15,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'Poppins'),
-      home: Home()
+            initialRoute: '/',
+      routes: {
+        '/': (context) => HomePage(),
+        '/breakfast': (context) => BreakFast(),
+      },
     );
   }
 }
