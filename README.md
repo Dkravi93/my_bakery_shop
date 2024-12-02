@@ -3,6 +3,8 @@
 A Baker Shop App
 
 ## ScreenShot
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/c6a239e9-7e32-41d6-b5f4-8474f1e72ae3">
+
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/639856d8-bff0-415e-9ae3-3d0f1f7c68b0">
 
 
